@@ -1,6 +1,6 @@
 const config = {
   // baseUrl: 'http://localhost:3000',
-  baseUrl: 'https://brewery-backend.vercel.app',
+  baseUrl: 'https://moengage-assignment-backend-68fc-zw7n.vercel.app/',
 };
 
 export default config;
